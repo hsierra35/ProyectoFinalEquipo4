@@ -1,5 +1,5 @@
 # ProyetoFinalEquipo4
-<img scr="imagen1.png">
+<img scr="imagen1.png"/>
 - 👋 Hola soy Heidi Sierra
 - 👀 Estoy interesada en Inteligencia Artificial
 - 🌱 Actualmente estoy aprendiendo Tecnología Educativa
